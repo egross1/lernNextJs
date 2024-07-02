@@ -5,53 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8425bc80-227e-4e2a-8050-04ee0688b8bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/data.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/definitions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/placeholder-data.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/seed/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/acme-logo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/customers/table.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/dashboard/cards.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/dashboard/latest-invoices.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/dashboard/nav-links.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/dashboard/revenue-chart.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/dashboard/sidenav.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/invoices/breadcrumbs.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/invoices/buttons.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/invoices/create-form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/invoices/edit-form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/invoices/pagination.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/invoices/status.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/invoices/table.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/login-form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/search.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/ui/skeletons.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prettier.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/customers/amy-burns.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/customers/balazs-orban.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/customers/delba-de-oliveira.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/customers/evil-rabbit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/customers/lee-robinson.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/customers/michael-novotny.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/hero-desktop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/hero-mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/opengraph-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.2.3/bin/php" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2igIEnGq1DczQysQo5q46jTJc2Z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -76,13 +31,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "f34583f6",
     "last_opened_file_path": "/Users/ry131/Workspace/Projects/nextJsLearn/nextjs-dashboard",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "pnpm",
-    "ts.external.directory.path": "/Users/ry131/Applications/PhpStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "ts.external.directory.path": "/Users/ry131/Workspace/Projects/nextJsLearn/nextjs-dashboard/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -103,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719905683951</updated>
       <workItem from="1719905685423" duration="4841000" />
+      <workItem from="1719911958901" duration="1483000" />
     </task>
     <servers />
   </component>
