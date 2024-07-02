@@ -1,1 +1,2 @@
 # lernNextJs
+Train for NextJs
